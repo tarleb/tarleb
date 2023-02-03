@@ -1,5 +1,7 @@
-### Hi there 👋
+Hallo! I'm Albert, a freelancing open-source software developer. Most of my work
+is on [pandoc](https://pandoc.org), the universal document converter /
+publishing system: I develop new Haskell libraries, create and maintain Lua
+extensions, provide support, provide Docker images, and generally work to keep
+the "ecosystem" in good shape.
 
-I'm a freelancing open-source software developer. Most of my work is on [pandoc](https://pandoc.org), on libraries used by pandoc, and on pandoc extensions.
-
-You can also find me on various other websites, including <a rel="me" href="https://scholar.social/@tarleb">Mastodon</a>, where I also run an account posting tips for, you guessed it, [pandoc](https://fosstodon.org/@pandoc).
+Come and say hi, links are in the sidebar!
