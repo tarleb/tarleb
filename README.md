@@ -4,7 +4,8 @@ develop new Haskell libraries, create and maintain [Lua extensions][], provide
 [support][pandoc-discuss], tend for the [Docker images][], and generally strive
 to move the system forward all while keeping the "ecosystem" in good shape.
 
-If you are using any of these parts, why not become a [sponsor]?
+If those sound like worthy tasks, or if you are using any of these parts, why
+not become a [sponsor]?
 
 Either way, come and say hi, links are in the sidebar!
 
